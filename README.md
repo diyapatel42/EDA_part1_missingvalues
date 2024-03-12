@@ -1,7 +1,8 @@
-##Exploratory Data Analysis: Handling Missing Values
+**Exploratory Data Analysis: Handling Missing Values
+**
 This notebook is part of the data preprocessing phase, focusing on handling missing values in the dataset. The notebook includes a variety of strategies to deal with the absence of data, each with its use case depending on the nature of the data and the desired outcome of the analysis.
 
-#Description
+**Description**
 Missing data can be a significant issue in data analysis and predictive modeling. The choice of how to handle missing values can affect the conclusions drawn from the data and the performance of machine learning models. This notebook outlines several methods for handling missing values, each with a practical example.
 
 #Methods Implemented
