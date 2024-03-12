@@ -1,18 +1,18 @@
 
 # Steps in EDA
-## Data Sourcing
-## Data Cleaning
-## Feature Scaling
-## Outlier Treatment
+1 Data Sourcing
+2 Data Cleaning
+3 Feature Scaling
+4 Outlier Treatment
 ## Invalid Data
 # Types of Data
 # Types of Analysis
-## Univariate Analysis
-## Bivariate Analysis
-## Multivariate Analysis
+1 Univariate Analysis
+2 Bivariate Analysis
+3 Multivariate Analysis
 # Derived Metrics
-## Feature Binning
-## Feature Encoding
+1 Feature Binning
+2 Feature Encoding
 ✅ 3:37:41 Case Study
 **Exploratory Data Analysis: Handling Missing Values**
 This notebook is part of the data preprocessing phase, focusing on handling missing values in the dataset. The notebook includes a variety of strategies to deal with the absence of data, each with its use case depending on the nature of the data and the desired outcome of the analysis.
