@@ -1,16 +1,16 @@
 
-### Steps in EDA
+# Steps in EDA
 ## Data Sourcing
 ## Data Cleaning
 ## Feature Scaling
 ## Outlier Treatment
 ## Invalid Data
 # Types of Data
-### Types of Analysis
+# Types of Analysis
 ## Univariate Analysis
 ## Bivariate Analysis
 ## Multivariate Analysis
-### Derived Metrics
+# Derived Metrics
 ## Feature Binning
 ## Feature Encoding
 ✅ 3:37:41 Case Study
