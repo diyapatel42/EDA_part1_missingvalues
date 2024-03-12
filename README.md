@@ -4,7 +4,7 @@
 2. Data Cleaning
 3. Feature Scaling
 4. Outlier Treatment
-## Invalid Data
+5. Invalid Data
 # Types of Data
 # Types of Analysis
 1. Univariate Analysis
